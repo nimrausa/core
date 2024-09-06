@@ -4,5 +4,5 @@ from django.http import HttpResponse
 # Create your views here.
 
 def home(request):
-    return HttpResponse("this is the django application create read update delete for the crud operations")
+    return HttpResponse("This is the django application create, read, update, delete for the crud operations")
                         
